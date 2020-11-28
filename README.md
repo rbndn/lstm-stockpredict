@@ -1,5 +1,6 @@
-# montecarlo-python
-Monte Carlo simulations and how to apply them to generate randomized future prices within Python. You can read the full guide from me in this link! http://digits.feb.unpad.ac.id/articles/2019/06/28/anaconda/
+# LSTM D
+This project uses LSTM Neural Network algorithm, to predict google stock prices. I’ll be using the daily prices of the S&P 500 from January 2000 to June 2017.
 ![full](/done.jpg)
-
+![full](/done2.jpg)
+![full](/done3.jpg)
 
